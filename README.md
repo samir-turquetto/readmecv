@@ -40,3 +40,7 @@ Elaborata informática - Curso de JAVA (2012 - 2013)
 ### Eventos
 * Visita a TOTS/SP (FACEC e ALFA)    
 * TDC 2021 - Trilha Flutter
+
+## Projetos Pessoais  
+* Cuidar da sáude pós COVID-19  
+* Pai 24 horas
