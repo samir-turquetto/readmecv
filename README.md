@@ -1,7 +1,7 @@
-#Curriculum Vitae
+# Curriculum Vitae
 
 
-##Dados Pessoais
+## Dados Pessoais
 
 
 Nome: Samir Turquetto Melo  
@@ -10,15 +10,33 @@ Telefone: (44) 98844-0486
 E-mail: samir.turquetto@gmail.com
 
 
-##Formação Acadêmica
+## Formação Acadêmica
 
 
 FACEC - Faculdade de Administração e Ciências Econômicas  
 Curso: Análise e Desenvolvimento de Sistemas  
 Concluído em: Junho / 2020
 
-##Experiência Profissional e  Cursos/Qualificações
+## Experiência Profissional e  Cursos/Qualificações
 
 
 Analista de Desenvolvimento l - TOTVS - Cianorte (2018 - Atual)  
 Elaborata informática - Curso de JAVA (2012 - 2013)
+
+##  Conhecimentos e Eventos  
+### Soft-Skills  
+* Comunicação não-violenta  
+* Trabalho em equipe  
+* Rápida aprendizagem  
+* Curiosidade
+
+### Hard-Skills  
+* Desenvolvimento de API  
+* Desenvolvimento .Net  
+* Desenvolvimento Flutter  
+* SQL  
+* Inlgês
+
+### Eventos
+* Visita a TOTS/SP (FACEC e ALFA)    
+* TDC 2021 - Trilha Flutter
