@@ -44,3 +44,7 @@ Elaborata informática - Curso de JAVA (2012 - 2013)
 ## Projetos Pessoais  
 * Cuidar da sáude pós COVID-19  
 * Pai 24 horas
+
+## Redes Sociais
+Facebook: https://www.facebook.com/sturquettomelo  
+LinkedIn: https://www.linkedin.com/in/samirmelo/
